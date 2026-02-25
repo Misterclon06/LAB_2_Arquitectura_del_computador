@@ -1,0 +1,1 @@
+# LAB_2_Arquitectura_del_computador
